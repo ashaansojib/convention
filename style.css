@@ -101,4 +101,6 @@
     font-size: 40px;
     text-align: center;
     padding: 40px 0;
+}ul.item-list li {
+    padding: 5px 0;
 }
